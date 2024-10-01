@@ -1,0 +1,83 @@
+1 | 01 | Eyelag Studio
+1 | 02 | Mikdurant
+2 | 03 | Musée Royal de Mariemont
+2 | 04 | Noégo Créations
+2 | 05 | Wallonihon
+2 | 06 | Mokei Senshi
+2 | 07 | Asashin Shinobi
+3 | 08 | Cutie's créa
+4 | 09 | Au bazar de Yiruld
+4 | 10 | DavAlly
+4 | 11 | Le mec Manga / Anaïs Manga
+3 | 12 | Wolffy
+3 | 13 | LauresArt
+3 | 14 | HVS 3D
+3 | 15 | D.V. Art
+3 | 16 | Lucas
+4 | 17 | Team Harpies
+4 | 18 | Pixel Days
+4 | 19 | Sagae
+4 | 20 | Substeamer
+4 | 21 | Geek, geek and geek
+4 | 22 | Otaku San
+4 | 23 | Topiogame
+3 | 24 | Maomi Drawings
+3 | 25 | Au pays des Merveilles
+4 | 26 | Shiba Editions
+3 | 27 | Toxic Grenadine
+3 | 28 | LazyLazy
+3 | 29 | Sayrunn Créations
+3 | 30 | Usagi-Art
+4 | 31 | Tealou
+3 | 32 | Dashdidou Shop
+3 | 33 | Aluco
+3 | 34 | Angelpyro and co
+3 | 35 | Kerly Piix
+3 | 36 | Helcanen
+4 | 37 | Magasin Player
+3 | 38 | The Chowshop
+3 | 39 | Sweetness Arts
+3 | 40 | Greg Jacquemin
+3 | 41 | Variaan / Savo
+4 | 42 | Bédébile
+3 | 43 | Hélène Lenoble
+3 | 44 | Keiwonder
+3 | 45 | Miki Mokasu & Hyokei Tedy
+3 | 46 | Ayaluna
+3 | 47 | Bloody Painty
+3 | 48 | Sabra System
+3 | 49 | Gohji Custom
+3 | 50 | It's Kindy
+3 | 51 | Ptite pixel
+3 | 52 | Myo loco création
+3 | 53 | Zefox
+3 | 54 | Guko
+3 | 55 | Akai Jushi
+5 | 56 | Lilico
+5 | 57 | Estelle Lovelli
+5 | 58 | Narlia
+5 | 59 | Spicy Custom
+5 | 60 | Promise
+5 | 61 | Lolo création
+5 | 62 | Kinami Cosplay
+3 | 63 | Punk Heart
+4 | 64 | Auras
+3 | 65 | Ween Art
+4 | 66 | Kami Omura
+4 | 67 | MissAUBE (Dimanche 10h-17h)
+6 | 68 | Jeu de Go (Samedi 10h-17h)
+6 | 69 | Confrérie des dés
+6 | 70 | Au bazar de Yiruld
+6 | 71 | Calligraphie (Samedi 14h-17h)
+6 | 72 | runa Sacré (Dimanche 10h-18h)
+6 | 73 | Atelier créatif - Meyssa (Dimanche 10h-18h)
+4 | 74 | Artemano
+4 | 75 | Corée Adorée
+6 | 76 | Jeu de rôle - Bibliothèque de Morlanwelz
+6 | 77 | Atelier Cosplay (Samedi 10h-14h)
+7 | FoodTruck | TeaLou
+7 | FoodTruck | Courbes des Saveurs
+7 | FoodTruck | La petite Fringale
+7 | FoodTruck | Famiglia Burger
+7 | FoodTruck | Mogo SRL
+7 | FoodTruck | Tyam

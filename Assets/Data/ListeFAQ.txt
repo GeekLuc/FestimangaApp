@@ -1,0 +1,14 @@
+Q |Q: Quel est le prix d'entrée ?
+R |R: 2€, gratuit pour les enfants de moins de 12 ans. Les paiements se font en espèces ou Bancontact.
+Q |Q: Quand démarre et finit la convention ?
+R |R: La convention démarre à 10h et se termine à 19h.
+Q |Q: Quelle est l'adresse de la convention ?
+R |R: R: L'adresse de la convention est la Salle Lucien Walravens, Rue de l'Enseignement 1, 7140 Morlanwelz Hainaut Belgique.
+Q |Q: Y a-t-il des parkings à disposition ?
+R |R: Oui, il y a des parkings à proximité, comme par exemple la place en face de la gare.
+Q |Q: Est-il possible de venir en transport en commun ?
+R |R: Oui, vous pouvez prendre le train depuis La Louvière ou Charleroi ou vous prenez la ligne 82 des bus TEC jusqu'à l'arrêt "Morlanwelz SNCB" et traversez la passerelle de la gare pour accéder à la convention.
+Q |Q: Peut-on manger à l'intérieur ?
+R |R: Vous pouvez retrouver des food trucks en face de l'entrée, mais il est interdit de manger et boire dans la salle. Une buvette est mise à disposition à cet effet.
+Q |Q: Est-ce qu'il y a des vestiaires disponibles ?
+R |R: Oui, des vestiaires sont à disposition pour les éventuels cosplayeurs et cosplayeuses.
