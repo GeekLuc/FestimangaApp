@@ -266,7 +266,7 @@ MonoBehaviour:
     m_Top: 0
     m_Bottom: 200
   m_ChildAlignment: 0
-  m_Spacing: 75
+  m_Spacing: 30
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 1
@@ -1807,8 +1807,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9278d409a6149004d83159d7bbd8b826, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minZoomScale: 0.5
-  maxZoomScale: 2
+  minZoomScale: 1
+  maxZoomScale: 1.75
 --- !u!1 &1336579857
 GameObject:
   m_ObjectHideFlags: 0
